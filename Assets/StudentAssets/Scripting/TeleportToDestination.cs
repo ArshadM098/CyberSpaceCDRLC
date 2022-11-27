@@ -25,3 +25,4 @@ public class TeleportToDestination : MonoBehaviour
         HeadsetTarget.transform.position = this.transform.position + offset;
     }
 }
+        
